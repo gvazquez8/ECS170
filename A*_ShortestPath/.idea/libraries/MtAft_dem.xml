@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MtAft.dem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MtAft.dem.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
