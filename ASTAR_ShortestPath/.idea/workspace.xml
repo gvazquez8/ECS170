@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e36eefe6-07ad-4d58-ad14-4ffed1edf5e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/.idea/libraries/MtAft_dem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/A*_ShortestPath.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/AIModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/AIModule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/AStarDiv_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/AStarDiv_917307919.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/AStarExp_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/AStarExp_917307919.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/DijkstraAI$PointCompartor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/DijkstraAI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/DijkstraAI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/HowToBuildandRun.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/MTAFT.XYZ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/MtAft.dem.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/MtStHelensDiv_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/MtStHelensDiv_917307919.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/MtStHelensExp_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/MtStHelensExp_917307919.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/PerlinTerrainGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/PerlinTerrainGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/StupidAI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/StupidAI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/TerrainFileLoader$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/TerrainFileLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/TerrainFileLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/TerrainGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/TerrainGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/TerrainMap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/TerrainMap$MovementType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/TerrainMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/TerrainMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/authors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_a_i_module_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_a_i_module_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_main_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_main_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_perlin_terrain_generator_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_perlin_terrain_generator_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_stupid_a_i_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_stupid_a_i_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_terrain_file_loader_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_terrain_file_loader_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_terrain_generator_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_terrain_generator_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_terrain_map_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/_terrain_map_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/annotated.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_main-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_perlin_terrain_generator-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_perlin_terrain_generator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_perlin_terrain_generator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_stupid_a_i-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_stupid_a_i.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_stupid_a_i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_terrain_file_loader-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_terrain_file_loader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_terrain_file_loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_terrain_file_loader_1_1_node-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_terrain_file_loader_1_1_node.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_terrain_map-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/class_terrain_map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/doxygen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/doxygen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/files.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/functions_enum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/functions_func.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/functions_vars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/hierarchy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/index_files/colorschememapping.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/index_files/filelist.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/index_files/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/index_files/themedata.thmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/interface_a_i_module-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/interface_a_i_module.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/interface_a_i_module.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/interface_terrain_generator-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/interface_terrain_generator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/interface_terrain_generator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/tab_b.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/tab_l.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/tab_r.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/html/tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/.idea/libraries/MtAft_dem.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/A*_ShortestPath.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/AIModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/AStarDiv_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/AStarExp_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/DijkstraAI$PointCompartor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/DijkstraAI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/HowToBuildandRun.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/MTAFT.XYZ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/MtAft.dem.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/MtStHelensDiv_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/MtStHelensExp_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/PerlinTerrainGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/StupidAI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/TerrainFileLoader$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/TerrainFileLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/TerrainGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/TerrainMap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/TerrainMap$MovementType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/TerrainMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/authors.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_a_i_module_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_a_i_module_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_main_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_main_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_perlin_terrain_generator_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_perlin_terrain_generator_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_stupid_a_i_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_stupid_a_i_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_terrain_file_loader_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_terrain_file_loader_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_terrain_generator_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_terrain_generator_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_terrain_map_8java-source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/_terrain_map_8java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/annotated.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_main-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_perlin_terrain_generator-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_perlin_terrain_generator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_perlin_terrain_generator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_stupid_a_i-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_stupid_a_i.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_stupid_a_i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_terrain_file_loader-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_terrain_file_loader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_terrain_file_loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_terrain_file_loader_1_1_node-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_terrain_file_loader_1_1_node.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_terrain_map-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/class_terrain_map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/doxygen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/doxygen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/files.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/functions_enum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/functions_func.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/functions_vars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/hierarchy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/index_files/colorschememapping.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/index_files/filelist.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/index_files/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/index_files/themedata.thmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/interface_a_i_module-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/interface_a_i_module.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/interface_a_i_module.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/interface_terrain_generator-members.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/interface_terrain_generator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/interface_terrain_generator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/tab_b.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/tab_l.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/tab_r.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A*_ShortestPath/output/production/A*_ShortestPath/html/tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A*_ShortestPath.iml" beforeDir="false" afterPath="$PROJECT_DIR$/A*_ShortestPath.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AStarDiv_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AStarExp_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DijkstraAI$PointCompartor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DijkstraAI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DijkstraAI.java" beforeDir="false" afterPath="$PROJECT_DIR$/DijkstraAI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MtStHelensDiv_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MtStHelensExp_917307919.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerlinTerrainGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StupidAI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TerrainFileLoader$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TerrainFileLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TerrainGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TerrainMap$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TerrainMap$MovementType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TerrainMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TerrainMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/TerrainMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/A*_ShortestPath/DijkstraAI.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/A*_ShortestPath/DijkstraAI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/A*_ShortestPath/TerrainMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/A*_ShortestPath/TerrainMap.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1nMZiQshafmk7VIzBtiBt9fnU5J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.DijkstraAI">
+    <configuration name="DijkstraAI" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="A*_ShortestPath" />
+      <option name="PROGRAM_PARAMETERS" value="DijkstraAI -seed 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StupidAI" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="A*_ShortestPath" />
+      <option name="PROGRAM_PARAMETERS" value="StupidAI -seed 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StupidAI" />
+      <item itemvalue="Application.DijkstraAI" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e36eefe6-07ad-4d58-ad14-4ffed1edf5e4" name="Default Changelist" comment="" />
+      <created>1611202046756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611202046756</updated>
+      <workItem from="1611202047885" duration="17026000" />
+      <workItem from="1611364019734" duration="8566000" />
+      <workItem from="1611531976480" duration="5600000" />
+      <workItem from="1611640749728" duration="5800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="fringe" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/A__ShortestPath$DijstraAI.ic" NAME="DijstraAI Coverage Results" MODIFIED="1611222521381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/A__ShortestPath$DijkstraAI.ic" NAME="DijkstraAI Coverage Results" MODIFIED="1611369508544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
