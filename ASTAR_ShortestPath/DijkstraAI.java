@@ -33,7 +33,7 @@ public class DijkstraAI implements AIModule{
         // init variables
         final ArrayList<Point> path = new ArrayList<>();
 
-        ArrayList<Point> visited = new ArrayList<>();
+        HashSet<Point> visited = new HashSet<>();
         HashMap<Point, Double> pathCosts = new HashMap<>();
         HashMap<Point, Point> history = new HashMap<>();
         PriorityQueue<Point> fringe = new PriorityQueue<>(11, new PointCompartor(pathCosts));
@@ -47,7 +47,14 @@ public class DijkstraAI implements AIModule{
         fringe.add(currentPoint);
 
         while (!fringe.isEmpty()) {
-            currentPoint = fringe.poll();
+            currentPoint = fringe.peek();
+
+            //System.out.println(String.format("%f @ (%d,%d)", pathCosts.get(currentPoint), currentPoint.x, currentPoint.y));
+
+            if (visited.contains(currentPoint)) {
+                System.out.println("Duplicate");
+                return null;
+            }
 
             visited.add(currentPoint);
 
@@ -64,12 +71,13 @@ public class DijkstraAI implements AIModule{
                         pathCosts.put(neighbor, altCost);
                         history.put(neighbor, currentPoint);
                     }
-                    if (fringe.contains(neighbor)) {
-                        fringe.remove(neighbor);
-                    }
+
+                    fringe.remove(neighbor);
                     fringe.add(neighbor);
                 }
             }
+
+            fringe.poll();
         }
 
         while (currentPoint != null) {
